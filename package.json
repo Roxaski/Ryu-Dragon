@@ -1,0 +1,21 @@
+{
+  "name": "Ryu-Dragon",
+  "displayName": "Ryu Dragon",
+  "description": "A dark theme that's easy on the eyes, and visually pleasing to anyone who likes to use they're code editor in dark mode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ryu Dragon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ryu Dragon-color-theme.json"
+      }
+    ]
+  }
+}
