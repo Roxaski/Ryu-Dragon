@@ -20,4 +20,4 @@ Massive thankyou to [andsproject](https://pixabay.com/vectors/dragon-katana-woma
 
 ## Feedback
 
-If you have any feedback then feel free to leave a review over at the [VS Code Marketplace]() as it would be appreciated.
+If you have any feedback then feel free to leave a review over at the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=roxaski.ryu-dragon) as it would be appreciated.
