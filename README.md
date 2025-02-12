@@ -4,7 +4,7 @@
 
 ## Theme
 
-This theme was created for use in [VS Code](https://code.visualstudio.com/) with alot of thought put into the colors and how they compliment each other.
+This theme was created for use in [VS Code](https://code.visualstudio.com/) i put alot of thought into the color scheme, making sure that all the colors compliment each other and that they all mesh well together. The theme was tested with HTML, CSS & JavaScript in mind. If anyone wants to create an PR's to make any additions or changes, your more than welcome.
 
 ## Fonts
 
