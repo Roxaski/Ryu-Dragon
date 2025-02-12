@@ -8,6 +8,10 @@
     "type": "git",
     "url": "https://github.com/Roxaski/Ryu-Dragon"
   },
+  "keywords": [
+    "theme",
+    "dark theme"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
