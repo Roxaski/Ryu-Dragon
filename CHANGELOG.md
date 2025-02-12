@@ -4,4 +4,4 @@
 
 ### Added
 
-- Updated the colour design for certain elements
+- Updated colour design of certain elements
