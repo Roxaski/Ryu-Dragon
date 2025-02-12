@@ -10,6 +10,11 @@
 
 		"editorOverviewRuler.errorForeground": "#930e2d",
 
+		"editorWidget.foreground": "#a3a2a2",
+        "editorWidget.background": "#10111c",
+        "editorWidget.border": "#10111c",
+        "editorWidget.resizeBorder": "#10111c",
+
 		"editorIndentGuide.background1": "#303245",
 		"editorIndentGuide.background2": "#303245",
 		"editorIndentGuide.background3": "#303245",
@@ -242,7 +247,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#9266e2"
 			}
 		},
 		{
@@ -439,7 +444,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#939ec8",
 			}
 		},
 		{
@@ -448,7 +453,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#939ec8"
 			}
 		},
 		{
@@ -512,7 +517,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#939ec8"
 			}
 		},
 		{
@@ -541,7 +546,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#dd8aea"
 			}
 		},
 		{

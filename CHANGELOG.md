@@ -1,9 +1,7 @@
 # Change Log
 
-## [1.3.0] - 2025-02-12
+## [1.4.0] - 2025-02-12
 
 ### Added
 
-- Added Theme Icon
-- Updated Description
-- minor fix
+- Updated the colour design for certain elements
