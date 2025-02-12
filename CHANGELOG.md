@@ -6,3 +6,4 @@
 
 - Added Theme Icon
 - Updated Description
+- minor fix
