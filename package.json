@@ -1,8 +1,9 @@
 {
   "name": "ryu-dragon",
   "displayName": "Ryu Dragon",
-  "description": "A dark theme that's easy on the eyes, while being visually pleasing for lovers of using their code editor in dark mode.",
-  "version": "1.0.0",
+  "description": "Dark Theme based on Mythical Dragons",
+  "icon": "assets/icon.png",
+  "version": "1.0.1",
   "publisher": "roxaski",
   "repository": {
     "type": "git",
