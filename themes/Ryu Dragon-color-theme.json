@@ -331,7 +331,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#a3a2a2"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#a3a2a2"
 			}
 		},
 		{
