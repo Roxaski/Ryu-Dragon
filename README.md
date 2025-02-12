@@ -16,7 +16,7 @@ They're are two fonts that i think go wonderfully with Ryu Dragon and they are [
 
 ## Icon
 
-Wanted to give a massive thankyou to [andsproject](https://pixabay.com/vectors/dragon-katana-woman-fantasy-sword-7063556/) for their incredible artwork.
+Massive thankyou to [andsproject](https://pixabay.com/vectors/dragon-katana-woman-fantasy-sword-7063556/) for their incredible artwork.
 
 ## Feedback
 
