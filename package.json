@@ -1,8 +1,13 @@
 {
   "name": "Ryu-Dragon",
   "displayName": "Ryu Dragon",
-  "description": "A dark theme that's easy on the eyes, and visually pleasing to anyone who likes to use they're code editor in dark mode.",
-  "version": "0.0.1",
+  "description": "A dark theme that's easy on the eyes, while being visually pleasing for lovers of using their code editor in dark mode.",
+  "version": "1.0",
+  "Publisher": "RoxasKi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roxaski/Ryu-Dragon"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
