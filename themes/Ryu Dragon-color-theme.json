@@ -14,6 +14,20 @@
         "editorWidget.background": "#10111c",
         "editorWidget.border": "#10111c",
         "editorWidget.resizeBorder": "#10111c",
+        "editorSuggestWidget.background": "#10111c",
+        "editorSuggestWidget.border": "#10111c",
+        "editorSuggestWidget.foreground": "#a3a2a2",
+        "editorSuggestWidget.focusHighlightForeground": "#a3a2a2",
+        "editorSuggestWidget.highlightForeground": "#a3a2a2",
+        "editorSuggestWidget.selectedBackground": "#10111c",
+        "editorSuggestWidget.selectedForeground": "#a3a2a2",
+        "editorSuggestWidget.selectedIconForeground": "#a3a2a2",
+        "editorSuggestWidgetStatus.foreground": "#a3a2a2",
+        "editorHoverWidget.foreground": "#a3a2a2",
+        "editorHoverWidget.background": "#10111c",
+        "editorHoverWidget.border": "#10111c",
+        "editorHoverWidget.highlightForeground": "#a3a2a2",
+        "editorHoverWidget.statusBarBackground": "#10111c",
 
 		"editorIndentGuide.background1": "#303245",
 		"editorIndentGuide.background2": "#303245",
@@ -38,8 +52,8 @@
 
 		"icon.foreground": "#a3a2a2",
 
-		"button.background": "#171725",
-        "button.foreground": "#a3a2a2",
+		"button.background": "#133365",
+        "button.foreground": "#eae7e7",
 
 		"tab.activeBackground": "#171928",
 		"tab.activeForeground": "#bbbbbb",
@@ -70,6 +84,29 @@
 
 		"input.background": "#10111c",
 		"input.foreground": "#bbbbbb",
+
+		"list.dropBackground": "#10111c",
+        "list.deemphasizedForeground":"#787c99",
+        "list.activeSelectionBackground": "#10111c",
+
+        "list.activeSelectionForeground": "#a3a2a2",
+        "list.inactiveSelectionBackground": "#10111c",
+        "list.inactiveSelectionForeground": "#a3a2a2",
+        "list.focusBackground": "#1c1d29",
+        "list.focusForeground": "#bbbbbb",
+        "list.hoverBackground": "#10111c",
+        "list.hoverForeground": "#bbbbbb",
+
+        "list.highlightForeground": "#668ac4",
+        "list.invalidItemForeground": "#c97018",
+        "list.warningForeground": "#c49a5a",
+
+        "listFilterWidget.background": "#10111c",
+        "listFilterWidget.outline": "#3d59a1",
+        "listFilterWidget.noMatchesOutline": "#a6333f",
+
+        "pickerGroup.foreground": "#a9b1d6",
+        "pickerGroup.border": "#10111c",
 
 		"terminal.background": "#10111c",
         "terminal.foreground": "#a3a2a2",
