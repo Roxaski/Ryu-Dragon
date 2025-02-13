@@ -124,6 +124,10 @@
 
 		"editorBracketHighlight.foreground1": "#5c84da",
         "editorBracketHighlight.foreground2": "#35769b",
+
+		"statusBar.debuggingBackground": "#10111c",
+		"statusBar.debuggingForeground": "#a3a2a2",
+		"statusBar.debuggingBorder": "#10111c"
 	},
 	"tokenColors": [
 		{
