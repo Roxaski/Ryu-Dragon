@@ -1,8 +1,7 @@
 # Change Log
 
-## [1.5.0] - 2025-02-12
+## [1.6.0] - 2025-03-04
 
 ### Added
 
-- Updated colour design of certain elements
-- Optimised Icon
+- Improved colour selection of certain elements
