@@ -1,7 +1,8 @@
 # Change Log
 
-## [1.6.0] - 2025-03-04
+## [1.6.0] - 2025-11-10
 
-### Added
+### Update
 
-- Improved colour selection of certain elements
+- minor color improvements
+- Added ko-fi link

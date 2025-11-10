@@ -3,13 +3,9 @@
 	"colors": {
 		"editor.background": "#171725",
 		"editor.foreground": "#939ec8",
-
 		"editor.selectionBackground": "#222541",
-		
 		"editorGroupHeader.tabsBackground": "#10111c",
-
 		"editorOverviewRuler.errorForeground": "#930e2d",
-
 		"editorWidget.foreground": "#a3a2a2",
         "editorWidget.background": "#10111c",
         "editorWidget.border": "#10111c",
@@ -28,7 +24,6 @@
         "editorHoverWidget.border": "#10111c",
         "editorHoverWidget.highlightForeground": "#a3a2a2",
         "editorHoverWidget.statusBarBackground": "#10111c",
-
 		"editorIndentGuide.background1": "#303245",
 		"editorIndentGuide.background2": "#303245",
 		"editorIndentGuide.background3": "#303245",
@@ -39,6 +34,8 @@
         "editorLineNumber.foreground": "#414556",
         "editorLineNumber.activeForeground": "#a3a2a2",
         "editor.lineHighlightBackground": "#222541",
+        "editorBracketHighlight.foreground1": "#5c84da",
+        "editorBracketHighlight.foreground2": "#35769b",
 
 		"titleBar.activeBackground": "#10111c",
 
@@ -88,19 +85,16 @@
 		"list.dropBackground": "#10111c",
         "list.deemphasizedForeground":"#787c99",
         "list.activeSelectionBackground": "#10111c",
-
         "list.activeSelectionForeground": "#a3a2a2",
         "list.inactiveSelectionBackground": "#10111c",
         "list.inactiveSelectionForeground": "#a3a2a2",
         "list.focusBackground": "#1c1d29",
         "list.focusForeground": "#bbbbbb",
-        "list.hoverBackground": "#10111c",
+        "list.hoverBackground": "#222541",
         "list.hoverForeground": "#bbbbbb",
-
         "list.highlightForeground": "#668ac4",
         "list.invalidItemForeground": "#c97018",
         "list.warningForeground": "#c49a5a",
-
         "listFilterWidget.background": "#10111c",
         "listFilterWidget.outline": "#3d59a1",
         "listFilterWidget.noMatchesOutline": "#a6333f",
@@ -121,9 +115,6 @@
 		"panelTitle.activeBorder": "#16161e00",
         "panelTitle.activeForeground": "#a3a2a2",
         "panelTitle.inactiveForeground": "#676f9e",
-
-		"editorBracketHighlight.foreground1": "#5c84da",
-        "editorBracketHighlight.foreground2": "#35769b",
 
 		"statusBar.debuggingBackground": "#10111c",
 		"statusBar.debuggingForeground": "#a3a2a2",
