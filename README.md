@@ -21,3 +21,9 @@ Massive thankyou to [andsproject](https://pixabay.com/vectors/dragon-katana-woma
 ## Feedback
 
 If you have any feedback then feel free to leave a review over at the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=roxaski.ryu-dragon) as it would be appreciated.
+
+## Donation
+
+If you're a fan of my work, a donation would be much appreciated but not necessary. I hope you enjoy what I've created regardless!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]([https://ko-fi.com/yourusername](https://ko-fi.com/roxaski))
