@@ -5,4 +5,4 @@
 ### Update
 
 - minor color improvements
-- Added ko-fi link
+- Added ko-fi button
