@@ -1,6 +1,6 @@
 # Ryu-Dragon
 
-![Ryu_Dragon](https://github.com/user-attachments/assets/5fdbec17-c7b5-450e-a47e-a476cc3b133a)
+<img width="1920" height="1080" alt="github_read me" src="https://github.com/user-attachments/assets/bb311e9f-3d7d-4fc7-b979-afda21e2275a" />
 
 ## Theme
 
