@@ -3,19 +3,31 @@
   "displayName": "Ryu Dragon",
   "description": "Dark Theme based on Mythical Dragons",
   "icon": "assets/icon.png",
-  "version": "1.8.0",
+  "license": "MIT",
   "publisher": "roxaski",
+  "homepage": "https://github.com/Roxaski/Ryu-Dragon#readme",
+  "bugs": {
+  "url": "https://github.com/Roxaski/Ryu-Dragon/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Roxaski/Ryu-Dragon"
   },
-  "keywords": [
-    "theme",
-    "dark theme"
-  ],
+  "version": "1.8.0",
   "engines": {
     "vscode": "^1.96.0"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color-theme",
+    "dragon",
+    "mythical",
+    "purple",
+    "blue",
+    "fantasy",
+    "dark"
+  ],
   "categories": [
     "Themes"
   ],
