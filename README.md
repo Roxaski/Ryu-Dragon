@@ -14,7 +14,7 @@ Contributions are very much welcome. If you'd like to suggest improvements or su
 
 ## Extensions
 
-Ryu Dragon's light and dark themes look incredible with [Monaspace](https://monaspace.githubnext.com/) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/). Both fonts are easy on the eyes and really elevate the look of both themes.
+Ryu Dragon's theme look incredible with [Monaspace](https://monaspace.githubnext.com/) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/). Both fonts are easy on the eyes and really elevate the look of both themes.
 
 ## Feedback
 
