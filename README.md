@@ -1,5 +1,3 @@
-# Ryu-Dragon
-
 <img alt="github_read me" src="https://github.com/user-attachments/assets/bb311e9f-3d7d-4fc7-b979-afda21e2275a" />
 
 ## Theme
