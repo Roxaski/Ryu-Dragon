@@ -53,6 +53,11 @@
         "menu.separatorBackground":"#2e2eb100",
 		"menu.selectionForeground":"#a3a2a2",
 
+        "editorGutter.addedBackground": "#484b67",
+
+        "gitDecoration.ignoredResourceForeground": "#8d90a8",
+
+
 		"icon.foreground": "#a3a2a2",
 
 		"button.background": "#1f234e",
