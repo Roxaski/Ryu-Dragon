@@ -1,7 +1,8 @@
 # Change Log
 
-## [1.9.3] - 2025-11-10
+## [1.9.4] - 2025-11-10
 
 ### Update
 
-- minor update to color scheme
+- improved explorer readability for active files
+- updated color scheme to improve visibility when moving files within explorer 
