@@ -57,7 +57,6 @@
 
         "gitDecoration.ignoredResourceForeground": "#8d90a8",
 
-
 		"icon.foreground": "#a3a2a2",
 
 		"button.background": "#1f234e",
@@ -101,10 +100,10 @@
 
         "selection.background": "#3d4c6e80", 
 
-		"list.dropBackground": "#10111c",
+		"list.dropBackground": "#26304880",
         "list.deemphasizedForeground":"#787c99",
         "list.activeSelectionBackground": "#10111c",
-        "list.activeSelectionForeground": "#a3a2a2",
+        "list.activeSelectionForeground": "#eae7e7",
         "list.inactiveSelectionBackground": "#10111c",
         "list.inactiveSelectionForeground": "#a3a2a2",
         "list.focusBackground": "#1c1d29",
