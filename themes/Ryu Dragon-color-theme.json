@@ -38,6 +38,11 @@
         "editorBracketHighlight.foreground2": "#35769b",
         "editor.selectionHighlightBackground": "#3d4c6e80",
         "editor.inactiveSelectionBackground": "#3d4c6e80",
+        "editorOverviewRuler.addedForeground": "#2a4d9b",
+        "editorOverviewRuler.modifiedForeground": "#2a4d9b",
+        "editorOverviewRuler.deletedForeground": "#e25d7c",
+        "editorGutter.modifiedBackground": "#2a4e9be0",
+        "editorGutter.deletedBackground": "#e25d7c80",
 
         "inputValidation.errorForeground": "#eae7e7",
         "inputValidation.errorBackground": "#222541",
