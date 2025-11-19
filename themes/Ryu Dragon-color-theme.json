@@ -92,6 +92,8 @@
 		"statusBar.background": "#10111c",
 		"statusBar.foreground": "#bbbbbb",
 
+        "scrollbar.shadow": "#10111c00",
+
 		"dropdown.background": "#171828",
 		"dropdown.foreground": "#bbbbbb",
 
