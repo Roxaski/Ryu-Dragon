@@ -1,4 +1,7 @@
-<img alt="github_read me" src="https://github.com/user-attachments/assets/bb311e9f-3d7d-4fc7-b979-afda21e2275a" />
+![Ryu Dragon](https://github.com/user-attachments/assets/b25855ef-4caf-4f08-b7b4-80813848f740#gh-light-mode-only)
+![Ryu Dragon](https://github.com/user-attachments/assets/00c5cf06-34e3-4965-b6bc-662ab24d9308#gh-dark-mode-only)
+
+
 
 ## Theme
 
